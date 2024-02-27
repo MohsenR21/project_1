@@ -1,5 +1,8 @@
 Write an article.
 Code.
 Study books.
+<<<<<<< HEAD
 Attend classes on time.
 Visit aunt.
+=======
+>>>>>>> parent of c665590 ( Classes on time)
